@@ -1,0 +1,9 @@
+#easy {
+    Width: 300px;
+    Height: 300px;
+    Border-radius: 150px;
+    Border-color: black;
+    Background-color: red;
+    font-size: 50px;
+    color: white;
+}
